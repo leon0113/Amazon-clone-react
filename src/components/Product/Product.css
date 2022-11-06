@@ -46,6 +46,10 @@
 
 }
 
+.btn-cart .btn-text {
+    margin-right: 5px;
+}
+
 .btn-cart:hover {
     background-color: orange;
 }
